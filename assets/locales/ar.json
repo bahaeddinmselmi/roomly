@@ -1,0 +1,10 @@
+{
+  "notEnoughTokens": "لا توجد رموز كافية",
+  "needTokens": "تحتاج إلى {{count}} رمز{{plural}} للمتابعة",
+  "watchAd": "شاهد إعلان",
+  "getToken": "احصل على رمز واحد",
+  "buyTokens": "شراء الرموز",
+  "tokenShop": "متجر الرموز",
+  "inviteFriend": "ادعُ صديقًا",
+  "get5Tokens": "احصل على 5 رموز"
+}

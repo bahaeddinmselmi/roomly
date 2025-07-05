@@ -1,0 +1,10 @@
+{
+  "notEnoughTokens": "Not Enough Tokens",
+  "needTokens": "You need {{count}} token{{plural}} to continue",
+  "watchAd": "Watch Ad",
+  "getToken": "Get 1 token",
+  "buyTokens": "Buy Tokens",
+  "tokenShop": "Token shop",
+  "inviteFriend": "Invite Friend",
+  "get5Tokens": "Get 5 tokens"
+}
